@@ -20,7 +20,7 @@ const displayCountdown = () => {
 
   // Final message function
   const displayMessage = () => {
-    document.body.innerHTML = "<p>Happy Independence Day!</p>";
+    document.body.innerHTML = "<p>Happy Independence Day</p>";
   };
 
   // Start the countdown
